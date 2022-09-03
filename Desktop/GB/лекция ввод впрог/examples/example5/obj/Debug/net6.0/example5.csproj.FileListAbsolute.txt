@@ -1,0 +1,15 @@
+C:\Users\Денис\Desktop\GB\лекция ввод впрог\examples\example5\obj\Debug\net6.0\example5.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\GB\лекция ввод впрог\examples\example5\obj\Debug\net6.0\example5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\GB\лекция ввод впрог\examples\example5\obj\Debug\net6.0\example5.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\GB\лекция ввод впрог\examples\example5\obj\Debug\net6.0\example5.AssemblyInfo.cs
+C:\Users\Денис\Desktop\GB\лекция ввод впрог\examples\example5\obj\Debug\net6.0\example5.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\GB\лекция ввод впрог\examples\example5\bin\Debug\net6.0\example5.exe
+C:\Users\Денис\Desktop\GB\лекция ввод впрог\examples\example5\bin\Debug\net6.0\example5.deps.json
+C:\Users\Денис\Desktop\GB\лекция ввод впрог\examples\example5\bin\Debug\net6.0\example5.runtimeconfig.json
+C:\Users\Денис\Desktop\GB\лекция ввод впрог\examples\example5\bin\Debug\net6.0\example5.dll
+C:\Users\Денис\Desktop\GB\лекция ввод впрог\examples\example5\bin\Debug\net6.0\example5.pdb
+C:\Users\Денис\Desktop\GB\лекция ввод впрог\examples\example5\obj\Debug\net6.0\example5.dll
+C:\Users\Денис\Desktop\GB\лекция ввод впрог\examples\example5\obj\Debug\net6.0\refint\example5.dll
+C:\Users\Денис\Desktop\GB\лекция ввод впрог\examples\example5\obj\Debug\net6.0\example5.pdb
+C:\Users\Денис\Desktop\GB\лекция ввод впрог\examples\example5\obj\Debug\net6.0\example5.genruntimeconfig.cache
+C:\Users\Денис\Desktop\GB\лекция ввод впрог\examples\example5\obj\Debug\net6.0\ref\example5.dll
