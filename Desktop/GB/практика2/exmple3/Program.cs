@@ -8,8 +8,7 @@ if (num1 % num2 == 0)
 else
 {
     int a = (num1 % num2);
-    Console.WriteLine("числы не кратны друг другу остаток от деления ");
-    Console.Write(a);
+    Console.WriteLine($"числы не кратны друг другу остаток от деления {a}");
 }
 
 
