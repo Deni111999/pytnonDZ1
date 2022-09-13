@@ -9,5 +9,5 @@ for (int i = 1; i < b; i++)
 {
 degree = degree * a;
 }
-Console.WriteLine("A в степени B равно: " + degree);
+Console.WriteLine($"A в степени B равно:  {degree}");
 
