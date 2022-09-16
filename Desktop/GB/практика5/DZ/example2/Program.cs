@@ -10,4 +10,4 @@ for(int i = 0; i < array.Length; i++)
      if(i % 2 > 0) sum = sum + array[i]; 
 }
 Console.WriteLine();
-Console.WriteLine(sum);
+Console.WriteLine($"сумма элементов стоящих на нечетных позициях {sum}");
